@@ -7,3 +7,6 @@ fitur yang ada
 - buat posting
 - edit posting
 - hapus posting
+
+
+Tolong sebelum digunakan berikan link database mongodb anda di index.js
