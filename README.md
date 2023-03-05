@@ -9,4 +9,4 @@ fitur yang ada
 - hapus posting
 
 
-Tolong sebelum digunakan berikan link database mongodb anda di index.js
+Tolong sebelum digunakan berikan link database mongodb anda di app.js
